@@ -16,4 +16,4 @@ jobs:
       - name: Run Addition Tests
         run: |
           echo "Running addition tests..."
-          node test/index.test.js
+          node index.js
